@@ -1,2 +1,7 @@
 node_modules
 .vscode
+postcss.config.js
+man.css
+person.css 
+man.html
+README.md
